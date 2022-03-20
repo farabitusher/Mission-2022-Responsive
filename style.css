@@ -38,3 +38,20 @@ body{
      #FFF4D6;
      border-radius: 20px;
  }
+
+ .develop-area{
+     margin-top: 150px;
+ }
+ .one-third-img{
+     width: 150px;
+     height: 150px;
+ }
+ .card-skill-1{
+     background-color: #FFBED8;;
+ }
+ .card-skill-2{
+    background-color: #C1F4C5;
+ }
+ .card-skill-3{
+     background-color: #FFBED8;;
+ }
