@@ -21,8 +21,12 @@ body{
 .hero-btn{
     background-color:#FF5959 ;
     color:#ffffff ;
-    border: none;
-    
+    border: none;   
+}
+.hero-btn:hover{
+    background-color: white;
+    color:#FF5959 ;
+    border: 2px solid #FF5959;
 }
 /*-----------
  3 colum area
