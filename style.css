@@ -1,0 +1,40 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Italianno&family=Mochiy+Pop+One&family=Poppins:wght@300;400;600;700&family=Roboto:wght@400;500;700;900&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Mochiy Pop One', sans-serif;
+}
+*{
+    /* background-color: aquamarine; */
+    font-family: 'Poppins', sans-serif;
+}
+.hero-heading-text{
+    color: #333333;
+    font-weight: 400;
+    font-size: 60px;
+    
+}.hero-text{
+    color: #3E3E3E;
+    font-size: 18px;
+    line-height: 28px;
+}
+.hero-btn{
+    background-color:#FF5959 ;
+    color:#ffffff ;
+    border: none;
+    
+}
+/*-----------
+ 3 colum area
+ ---------  */
+ .card-1{
+    background: rgba(79, 157, 166, 0.1);
+    border-radius: 20px;
+ }.card-2{
+    background: rgba(255, 89, 89, 0.1);
+    border-radius: 20px;
+ }.card-3{
+     background-color: 
+     #FFF4D6;
+     border-radius: 20px;
+ }
